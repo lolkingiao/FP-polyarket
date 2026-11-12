@@ -33,6 +33,31 @@ python3 classify.py snapshot.json --mid-distance-max 0.10
 # Parameterized recording: asset and window only affect --auto-slug slug naming/windowing
 python3 record.py --auto-slug --asset eth --window-minutes 5
 
+## Supported markets and threshold overrides (Recalibration required)
+
+**This package is NOT a drop-in solution for other assets or timeframes.** 
+The default thresholds (`spread_max=0.02`, `mid_distance_max=0.05`, `recent_trade_count_min=3`, `locked_mid_min=0.30`) were frozen on 2026-11-11 after analyzing **399 BTC 5-minute snapshots**. They are strictly calibrated for this specific market.
+
+If you want to use this model for **ETH** or **15-minute** markets, you MUST recalibrate the thresholds. You cannot simply reuse the BTC 5-min numbers, because liquidity, trade frequency, and volatility are completely different.
+
+Here is the step-by-step to adapt this tool for a new market (e.g., ETH 15-min):
+
+1. **Record a new design set**:
+   `python3 scripts/record.py --auto-slug --asset eth --window-minutes 15 --duration 3600`
+   *(Run this for a few hours to collect at least 300+ snapshots).*
+2. **Re-run the analysis**: 
+   Use the logic in `artifacts/round1_design_analysis_v3.md` to find the new distribution of `goldilocks`, `quiet`, and `resolved_pending` in your ETH data.
+3. **Update the thresholds**:
+   Edit `config.yaml` and change the 4 numbers under `thresholds:` to fit the ETH market structure.
+4. **Classify**:
+   `python3 scripts/classify.py your_eth_snapshot.json`
+
+### Temporary CLI Threshold Overrides (For testing only)
+If you just want to test one specific snapshot without editing `config.yaml`, you can override thresholds on the fly:
+`python3 scripts/classify.py snapshot.json --mid-distance-max 0.10`
+
+*Note: Changing CLI flags only affects that single run. It does not mean the threshold is validated for the new market.*
+
 ## What "GO" means
 GO is not a profit guarantee. It means: current regime satisfies the strict goldilocks definition (narrow spread, mid near 0.5, recent trade activity ≥ 3 in the last 60 seconds). The evaluation found goldilocks in 3.5% of the 399-snapshot design set (18.9% among the 53 active snapshots). The gate's primary value is avoiding the 31.8% of snapshots where a naive dual-sided strategy would lose one leg (resolved_pending 27.8% + locked_two_sided 4.0%). See artifacts/evaluation_report_v2.md in the parent repo for the full evaluation.
 
