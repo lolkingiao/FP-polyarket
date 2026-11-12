@@ -46,4 +46,4 @@ Built on the WorkSwarm / JiuwenSwarm environment.
 Link: https://github.com/openJiuwen-ai/jiuwenswarm
 
 ## License
-(Leave as TODO for now — will fill in when publishing to GitHub.)
+MIT License
