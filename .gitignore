@@ -1,0 +1,6 @@
+data/snapshots/
+__pycache__/
+.DS_Store
+course_files_export.zip
+nohup.out
+192

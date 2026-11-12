@@ -1,0 +1,33 @@
+# config.yaml
+market:
+  asset: "btc"
+  expiry_minutes: 5
+  settlement_source: "chainlink_30s_twap"
+
+strategy:
+  dual_price: 0.48
+  stake_eur_per_side: 48.0
+
+thresholds:
+  spread_max: 0.02
+  mid_distance_max: 0.05
+  recent_trade_count_min: 3
+  locked_mid_min: 0.30
+  one_sided_forbidden: true
+
+decision:
+  goldilocks: GO
+  quiet: WAIT
+  resolved_pending: NO-GO
+  locked_two_sided: NO-GO
+  unclassified: NO-GO
+
+data:
+  snapshot_dir: "data/snapshots/round1_design/"
+  kline_file: "data/snapshots/round1_design/btc_klines_1m.csv"
+  output_dir: "outputs/"
+
+limitations:
+  - "Fill simulation is conservative: checks next snapshot only, not full path."
+  - "Settlement uses Chainlink 30s TWAP; order-book features are a proxy."
+  - "Single-day design set; goldilocks rate may shift on other days."

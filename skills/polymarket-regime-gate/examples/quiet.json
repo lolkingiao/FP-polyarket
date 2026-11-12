@@ -1,0 +1,2241 @@
+{
+  "recorded_at_utc": "2026-11-11T09:26:22.137816+00:00",
+  "recorded_at_epoch": 1794389182,
+  "market": {
+    "slug": "btc-updown-5m-1794389100",
+    "conditionId": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+    "question": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+    "up_token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+    "down_token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+  },
+  "book_up": {
+    "market": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+    "asset_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+    "timestamp": "1794389181484",
+    "hash": "8593647541c2209affdab4caa76424103bc6b994",
+    "bids": [
+      {
+        "price": "0.01",
+        "size": "8203.71"
+      },
+      {
+        "price": "0.02",
+        "size": "2321.02"
+      },
+      {
+        "price": "0.03",
+        "size": "2150.27"
+      },
+      {
+        "price": "0.04",
+        "size": "5919.61"
+      },
+      {
+        "price": "0.05",
+        "size": "3364.21"
+      },
+      {
+        "price": "0.06",
+        "size": "1555.76"
+      },
+      {
+        "price": "0.07",
+        "size": "908.65"
+      },
+      {
+        "price": "0.08",
+        "size": "2135.5"
+      },
+      {
+        "price": "0.09",
+        "size": "719.12"
+      },
+      {
+        "price": "0.1",
+        "size": "851.7"
+      },
+      {
+        "price": "0.11",
+        "size": "717.35"
+      },
+      {
+        "price": "0.12",
+        "size": "1671.56"
+      },
+      {
+        "price": "0.13",
+        "size": "1428.96"
+      },
+      {
+        "price": "0.14",
+        "size": "300.11"
+      },
+      {
+        "price": "0.15",
+        "size": "1082.57"
+      },
+      {
+        "price": "0.16",
+        "size": "732.32"
+      },
+      {
+        "price": "0.17",
+        "size": "198.98"
+      },
+      {
+        "price": "0.18",
+        "size": "321.17"
+      },
+      {
+        "price": "0.19",
+        "size": "243.51"
+      },
+      {
+        "price": "0.2",
+        "size": "185.7"
+      },
+      {
+        "price": "0.21",
+        "size": "667.6"
+      },
+      {
+        "price": "0.22",
+        "size": "197.2"
+      },
+      {
+        "price": "0.23",
+        "size": "271.6"
+      },
+      {
+        "price": "0.24",
+        "size": "246.2"
+      },
+      {
+        "price": "0.25",
+        "size": "795.9"
+      },
+      {
+        "price": "0.26",
+        "size": "645.6"
+      },
+      {
+        "price": "0.27",
+        "size": "265.2"
+      },
+      {
+        "price": "0.28",
+        "size": "289.8"
+      },
+      {
+        "price": "0.29",
+        "size": "254.6"
+      },
+      {
+        "price": "0.3",
+        "size": "427.17"
+      },
+      {
+        "price": "0.31",
+        "size": "837.98"
+      },
+      {
+        "price": "0.32",
+        "size": "456.31"
+      },
+      {
+        "price": "0.33",
+        "size": "262.8"
+      },
+      {
+        "price": "0.34",
+        "size": "336.61"
+      },
+      {
+        "price": "0.35",
+        "size": "318.4"
+      },
+      {
+        "price": "0.36",
+        "size": "860.2"
+      },
+      {
+        "price": "0.37",
+        "size": "464.2"
+      },
+      {
+        "price": "0.38",
+        "size": "488"
+      },
+      {
+        "price": "0.39",
+        "size": "889.82"
+      },
+      {
+        "price": "0.4",
+        "size": "621.61"
+      },
+      {
+        "price": "0.41",
+        "size": "944.8"
+      },
+      {
+        "price": "0.42",
+        "size": "892.6"
+      },
+      {
+        "price": "0.43",
+        "size": "982.3"
+      },
+      {
+        "price": "0.44",
+        "size": "507.47"
+      },
+      {
+        "price": "0.45",
+        "size": "383.74"
+      },
+      {
+        "price": "0.46",
+        "size": "655.44"
+      },
+      {
+        "price": "0.47",
+        "size": "655.32"
+      },
+      {
+        "price": "0.48",
+        "size": "740.97"
+      },
+      {
+        "price": "0.49",
+        "size": "412.63"
+      },
+      {
+        "price": "0.5",
+        "size": "505.92"
+      },
+      {
+        "price": "0.51",
+        "size": "902.43"
+      }
+    ],
+    "asks": [
+      {
+        "price": "0.99",
+        "size": "7857.33"
+      },
+      {
+        "price": "0.98",
+        "size": "2088.19"
+      },
+      {
+        "price": "0.97",
+        "size": "1657.29"
+      },
+      {
+        "price": "0.96",
+        "size": "4549.11"
+      },
+      {
+        "price": "0.95",
+        "size": "2012.22"
+      },
+      {
+        "price": "0.94",
+        "size": "1108.76"
+      },
+      {
+        "price": "0.93",
+        "size": "1019.65"
+      },
+      {
+        "price": "0.92",
+        "size": "2410.51"
+      },
+      {
+        "price": "0.91",
+        "size": "1096.12"
+      },
+      {
+        "price": "0.9",
+        "size": "545.01"
+      },
+      {
+        "price": "0.89",
+        "size": "1375.96"
+      },
+      {
+        "price": "0.88",
+        "size": "1595.56"
+      },
+      {
+        "price": "0.87",
+        "size": "440.96"
+      },
+      {
+        "price": "0.86",
+        "size": "515.11"
+      },
+      {
+        "price": "0.85",
+        "size": "1494.32"
+      },
+      {
+        "price": "0.84",
+        "size": "498.32"
+      },
+      {
+        "price": "0.83",
+        "size": "283.48"
+      },
+      {
+        "price": "0.82",
+        "size": "321.17"
+      },
+      {
+        "price": "0.81",
+        "size": "628.01"
+      },
+      {
+        "price": "0.8",
+        "size": "506.53"
+      },
+      {
+        "price": "0.79",
+        "size": "961.12"
+      },
+      {
+        "price": "0.78",
+        "size": "287.2"
+      },
+      {
+        "price": "0.77",
+        "size": "389.54"
+      },
+      {
+        "price": "0.76",
+        "size": "556.2"
+      },
+      {
+        "price": "0.75",
+        "size": "842.56"
+      },
+      {
+        "price": "0.74",
+        "size": "678.6"
+      },
+      {
+        "price": "0.73",
+        "size": "250.2"
+      },
+      {
+        "price": "0.72",
+        "size": "288.8"
+      },
+      {
+        "price": "0.71",
+        "size": "578.6"
+      },
+      {
+        "price": "0.7",
+        "size": "248.4"
+      },
+      {
+        "price": "0.69",
+        "size": "448.2"
+      },
+      {
+        "price": "0.68",
+        "size": "218"
+      },
+      {
+        "price": "0.67",
+        "size": "363.8"
+      },
+      {
+        "price": "0.66",
+        "size": "742.6"
+      },
+      {
+        "price": "0.65",
+        "size": "930.23"
+      },
+      {
+        "price": "0.64",
+        "size": "469.08"
+      },
+      {
+        "price": "0.63",
+        "size": "439.46"
+      },
+      {
+        "price": "0.62",
+        "size": "482"
+      },
+      {
+        "price": "0.61",
+        "size": "511.23"
+      },
+      {
+        "price": "0.6",
+        "size": "607.7"
+      },
+      {
+        "price": "0.59",
+        "size": "546.7"
+      },
+      {
+        "price": "0.58",
+        "size": "435.7"
+      },
+      {
+        "price": "0.57",
+        "size": "391.7"
+      },
+      {
+        "price": "0.56",
+        "size": "407.55"
+      },
+      {
+        "price": "0.55",
+        "size": "2103"
+      },
+      {
+        "price": "0.54",
+        "size": "606.7"
+      },
+      {
+        "price": "0.53",
+        "size": "535.6"
+      },
+      {
+        "price": "0.52",
+        "size": "256.54"
+      }
+    ],
+    "min_order_size": "5",
+    "tick_size": "0.01",
+    "neg_risk": false,
+    "last_trade_price": "0.480"
+  },
+  "book_down": {
+    "market": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+    "asset_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+    "timestamp": "1794389181874",
+    "hash": "a46cad585f988b606496afa714df91a7c65fca6c",
+    "bids": [
+      {
+        "price": "0.01",
+        "size": "7993.63"
+      },
+      {
+        "price": "0.02",
+        "size": "2088.19"
+      },
+      {
+        "price": "0.03",
+        "size": "1657.29"
+      },
+      {
+        "price": "0.04",
+        "size": "4549.11"
+      },
+      {
+        "price": "0.05",
+        "size": "2012.22"
+      },
+      {
+        "price": "0.06",
+        "size": "1108.76"
+      },
+      {
+        "price": "0.07",
+        "size": "1019.65"
+      },
+      {
+        "price": "0.08",
+        "size": "2410.51"
+      },
+      {
+        "price": "0.09",
+        "size": "1096.12"
+      },
+      {
+        "price": "0.1",
+        "size": "545.01"
+      },
+      {
+        "price": "0.11",
+        "size": "1375.96"
+      },
+      {
+        "price": "0.12",
+        "size": "1595.56"
+      },
+      {
+        "price": "0.13",
+        "size": "440.96"
+      },
+      {
+        "price": "0.14",
+        "size": "515.11"
+      },
+      {
+        "price": "0.15",
+        "size": "1494.32"
+      },
+      {
+        "price": "0.16",
+        "size": "498.32"
+      },
+      {
+        "price": "0.17",
+        "size": "283.48"
+      },
+      {
+        "price": "0.18",
+        "size": "321.17"
+      },
+      {
+        "price": "0.19",
+        "size": "628.01"
+      },
+      {
+        "price": "0.2",
+        "size": "506.53"
+      },
+      {
+        "price": "0.21",
+        "size": "961.12"
+      },
+      {
+        "price": "0.22",
+        "size": "287.2"
+      },
+      {
+        "price": "0.23",
+        "size": "288.1"
+      },
+      {
+        "price": "0.24",
+        "size": "556.2"
+      },
+      {
+        "price": "0.25",
+        "size": "842.56"
+      },
+      {
+        "price": "0.26",
+        "size": "423.47"
+      },
+      {
+        "price": "0.27",
+        "size": "245.2"
+      },
+      {
+        "price": "0.28",
+        "size": "293.8"
+      },
+      {
+        "price": "0.29",
+        "size": "578.6"
+      },
+      {
+        "price": "0.3",
+        "size": "248.4"
+      },
+      {
+        "price": "0.31",
+        "size": "448.2"
+      },
+      {
+        "price": "0.32",
+        "size": "218"
+      },
+      {
+        "price": "0.33",
+        "size": "267.8"
+      },
+      {
+        "price": "0.34",
+        "size": "757.6"
+      },
+      {
+        "price": "0.35",
+        "size": "930.23"
+      },
+      {
+        "price": "0.36",
+        "size": "469.08"
+      },
+      {
+        "price": "0.37",
+        "size": "519.46"
+      },
+      {
+        "price": "0.38",
+        "size": "515.63"
+      },
+      {
+        "price": "0.39",
+        "size": "501"
+      },
+      {
+        "price": "0.4",
+        "size": "502.7"
+      },
+      {
+        "price": "0.41",
+        "size": "971.7"
+      },
+      {
+        "price": "0.42",
+        "size": "400.7"
+      },
+      {
+        "price": "0.43",
+        "size": "421.7"
+      },
+      {
+        "price": "0.44",
+        "size": "397.55"
+      },
+      {
+        "price": "0.45",
+        "size": "2153"
+      },
+      {
+        "price": "0.46",
+        "size": "664.7"
+      },
+      {
+        "price": "0.47",
+        "size": "535.6"
+      },
+      {
+        "price": "0.48",
+        "size": "486.09"
+      }
+    ],
+    "asks": [
+      {
+        "price": "0.99",
+        "size": "8218.71"
+      },
+      {
+        "price": "0.98",
+        "size": "2316.02"
+      },
+      {
+        "price": "0.97",
+        "size": "2160.27"
+      },
+      {
+        "price": "0.96",
+        "size": "5942.21"
+      },
+      {
+        "price": "0.95",
+        "size": "3400.51"
+      },
+      {
+        "price": "0.94",
+        "size": "1555.76"
+      },
+      {
+        "price": "0.93",
+        "size": "913.65"
+      },
+      {
+        "price": "0.92",
+        "size": "2135.5"
+      },
+      {
+        "price": "0.91",
+        "size": "719.12"
+      },
+      {
+        "price": "0.9",
+        "size": "851.7"
+      },
+      {
+        "price": "0.89",
+        "size": "717.35"
+      },
+      {
+        "price": "0.88",
+        "size": "1671.56"
+      },
+      {
+        "price": "0.87",
+        "size": "1428.96"
+      },
+      {
+        "price": "0.86",
+        "size": "300.11"
+      },
+      {
+        "price": "0.85",
+        "size": "1082.57"
+      },
+      {
+        "price": "0.84",
+        "size": "732.32"
+      },
+      {
+        "price": "0.83",
+        "size": "198.98"
+      },
+      {
+        "price": "0.82",
+        "size": "321.17"
+      },
+      {
+        "price": "0.81",
+        "size": "243.51"
+      },
+      {
+        "price": "0.8",
+        "size": "185.7"
+      },
+      {
+        "price": "0.79",
+        "size": "667.6"
+      },
+      {
+        "price": "0.78",
+        "size": "197.2"
+      },
+      {
+        "price": "0.77",
+        "size": "271.6"
+      },
+      {
+        "price": "0.76",
+        "size": "246.2"
+      },
+      {
+        "price": "0.75",
+        "size": "795.9"
+      },
+      {
+        "price": "0.74",
+        "size": "645.6"
+      },
+      {
+        "price": "0.73",
+        "size": "265.2"
+      },
+      {
+        "price": "0.72",
+        "size": "289.8"
+      },
+      {
+        "price": "0.71",
+        "size": "254.6"
+      },
+      {
+        "price": "0.7",
+        "size": "427.17"
+      },
+      {
+        "price": "0.69",
+        "size": "837.98"
+      },
+      {
+        "price": "0.68",
+        "size": "456.31"
+      },
+      {
+        "price": "0.67",
+        "size": "262.8"
+      },
+      {
+        "price": "0.66",
+        "size": "336.61"
+      },
+      {
+        "price": "0.65",
+        "size": "318.4"
+      },
+      {
+        "price": "0.64",
+        "size": "860.2"
+      },
+      {
+        "price": "0.63",
+        "size": "464.2"
+      },
+      {
+        "price": "0.62",
+        "size": "528"
+      },
+      {
+        "price": "0.61",
+        "size": "589.82"
+      },
+      {
+        "price": "0.6",
+        "size": "641.61"
+      },
+      {
+        "price": "0.59",
+        "size": "944.8"
+      },
+      {
+        "price": "0.58",
+        "size": "1082.6"
+      },
+      {
+        "price": "0.57",
+        "size": "1188.62"
+      },
+      {
+        "price": "0.56",
+        "size": "661.47"
+      },
+      {
+        "price": "0.55",
+        "size": "637.74"
+      },
+      {
+        "price": "0.54",
+        "size": "670.44"
+      },
+      {
+        "price": "0.53",
+        "size": "555.32"
+      },
+      {
+        "price": "0.52",
+        "size": "580.97"
+      },
+      {
+        "price": "0.51",
+        "size": "472.63"
+      },
+      {
+        "price": "0.5",
+        "size": "670.92"
+      },
+      {
+        "price": "0.49",
+        "size": "741.22"
+      }
+    ],
+    "min_order_size": "5",
+    "tick_size": "0.01",
+    "neg_risk": false,
+    "last_trade_price": "0.510"
+  },
+  "trades_recent": [
+    {
+      "proxy_wallet": "0x973138619ba9bd77f285c8b22a6950efbd284ba7",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 10.0,
+      "price": 0.545,
+      "timestamp": 1794389104,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "leonsax",
+      "pseudonym": "Unkempt-Hearsay-Someone",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xcf2f2d8096367436c141d588d07b501533f278c2989aef65504fbf82e47cdd2e",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x29be3ca4554f57edca6d2e98146db710a201d358",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 5.0,
+      "price": 0.52,
+      "timestamp": 1794389104,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "0x29be3ca4554F57Edca6D2e98146db710a201D358-1761805147768",
+      "pseudonym": "Key-Grammar",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x9ad6d6a898985d9fc1fdcb47b4c307d742f081d17cb12e279c9e2627ef18d99c",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x6b6669191c5ba274386febd8b8497c76e049f51e",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 2.346939,
+      "price": 0.4899999531,
+      "timestamp": 1794389103,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "Anon4635",
+      "pseudonym": "Submissive-Contrail-Spirit",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x9dba8c59aa6b17444704951c248c76779d1957f616f82478f2e0233e01423af0",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xe439b8e52eeeeda4eff19a10a4307706a85d61b4",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 10.0,
+      "price": 0.52,
+      "timestamp": 1794389101,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "PBot-4",
+      "pseudonym": "Flowery-Gnat",
+      "bio": "hello",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xccd5863033a7abfdc8b8d8b17341856cc1e369b850a015c80d6f65173d325a3b",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x07301d4dc625b74d3db8342f003ea2b70a6b3632",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 9.615385,
+      "price": 0.5199999792,
+      "timestamp": 1794389101,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "Heath1019",
+      "pseudonym": "Lone-Admin-Variable",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xb37b7cf921088172448ecb794013bbd6c34bf5e92efbcbede4441a21ddfc5472",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x66dde404cedc1c0cd959dc08f9c74628fc737e1b",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 11.764706,
+      "price": 0.5099999949,
+      "timestamp": 1794389100,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "0x66DDE404CEDc1c0CD959dC08F9c74628fc737E1b-1764493376618",
+      "pseudonym": "Messy-Metabolite",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xf4edcdcedf59ef5ba2757390bd3736f744cf20ce77d69ceb973483ae8f0b48c1",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x328f27469b31b6bac14d82e8795cec57a5be09e0",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 5.0,
+      "price": 0.5,
+      "timestamp": 1794389095,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "4306482",
+      "pseudonym": "Skinny-Songbird",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xd2aa75787fd6d3e75a6972af8e1a3a7001248b5dffe067e93b1ff52649241725",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xf9317b5d13be77514bf45f5901f2ed780325fdcf",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 9.9,
+      "price": 0.5,
+      "timestamp": 1794389094,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "luckystrikegr",
+      "pseudonym": "Nautical-Woolens",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x62e4591921d2d279fddaecf9922d98db7d6b0c99dd5245e7cf05d867844c211f",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 5.0,
+      "price": 0.41,
+      "timestamp": 1794389092,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "Bonereaper",
+      "pseudonym": "Popular-Insurrection",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xdceb0e175be3737ec949a5abe707fb5f5e33a100eea4891c78abe4cf443e16c0",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0xd1a6835297404bb68c2a5b1e13dc70cf696c3a51",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 40.0,
+      "price": 0.6,
+      "timestamp": 1794389092,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "Vonz",
+      "pseudonym": "Frightening-Weekender",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x3234073f34cf068581e1069f3a7b1a0e842d290bbc7628b8c77505594d80660a",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xd1a6835297404bb68c2a5b1e13dc70cf696c3a51",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 40.0,
+      "price": 0.6,
+      "timestamp": 1794389092,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "Vonz",
+      "pseudonym": "Frightening-Weekender",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xf60533c692f0cbf5402dddc17d413ae1c6155973e54ea22fb588292fdafcdb3f",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xe956a168eac917629b9411774e14747b563ed21c",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 87.283332,
+      "price": 0.5999999977,
+      "timestamp": 1794389091,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "jyhas1980",
+      "pseudonym": "Boring-Phrase-Pie",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x15524e30f4da77c85bc9c5950c8f1937228b7f4ff3cdc031b4fc361c5f179279",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xe956a168eac917629b9411774e14747b563ed21c",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 625.3,
+      "price": 0.6058260035,
+      "timestamp": 1794389089,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "jyhas1980",
+      "pseudonym": "Boring-Phrase-Pie",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xb5934d3e5bee6152e305b44c427b31fb77cc04a59105dce7342d46c5dce55677",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x45840f0543a1b16bc99f72e14960a720faa168df",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 2.380953,
+      "price": 0.4199998908,
+      "timestamp": 1794389088,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x67207ae996c395e34bece50236f912979d867b996aedee0a3b093e5c7b3b4f79",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0xe956a168eac917629b9411774e14747b563ed21c",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 100.0,
+      "price": 0.59,
+      "timestamp": 1794389088,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "jyhas1980",
+      "pseudonym": "Boring-Phrase-Pie",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x6031629d58883fc96dad6d0f4e2d8e04fb9b83c5324fe25609f4382af41f2bab",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x2611ead6ef4161ec504c903e3c4a888f57e0be8c",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 228.756591,
+      "price": 0.4371458744,
+      "timestamp": 1794389086,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "sz8888",
+      "pseudonym": "Friendly-Gem",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x35f87adfcdb16f7087525cab96b0029519b2b5a3a07bc2876e805612e669c6fc",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x2e3cc8abc44e1df60af7fe7cf9316e646272ca53",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 6.0,
+      "price": 0.58,
+      "timestamp": 1794389086,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "otterr",
+      "pseudonym": "Beautiful-Latitude",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x80c7577b9d52d8fb3d6efba5d2167cc923d11ac682584596dfa0e728d6afe2ae",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xe956a168eac917629b9411774e14747b563ed21c",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 468.3,
+      "price": 0.5761328208,
+      "timestamp": 1794389086,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "jyhas1980",
+      "pseudonym": "Boring-Phrase-Pie",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x4bbd99cd1af0b2a8286c5fcb4788d3d7d2949c404b9496e8917785ee2231c428",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xced8a250384f0bc749fd2401381034233f9201fd",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 20.71,
+      "price": 0.43,
+      "timestamp": 1794389085,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "0xE18f6B1262d710bde0cB4d5E9fC17Eba6690BAa6-1776047417166",
+      "pseudonym": "Several-Workplace",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x243de4c04bf5e0532c90b9c15d706e52f6af42876cf54b738813c396500e4a0e",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x2e3cc8abc44e1df60af7fe7cf9316e646272ca53",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 6.214286,
+      "price": 0.5599999743,
+      "timestamp": 1794389083,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "otterr",
+      "pseudonym": "Beautiful-Latitude",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x98a653a0e16e943ce8c5bd6361457debb4bb71a89466145ae2a4f42c3ef2d24e",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x2611ead6ef4161ec504c903e3c4a888f57e0be8c",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 227.272728,
+      "price": 0.4399999986,
+      "timestamp": 1794389083,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "sz8888",
+      "pseudonym": "Friendly-Gem",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xce7d3f715ceb71b7796ae789ffa83d7529b84ab53b763485099a5bc58a8c8196",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x2611ead6ef4161ec504c903e3c4a888f57e0be8c",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 675.482609,
+      "price": 0.4441269042,
+      "timestamp": 1794389082,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "sz8888",
+      "pseudonym": "Friendly-Gem",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xfeeab4039b7e493d7d229345c5de9228d566d98ae41100eb48b17d40d348a6bb",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x2611ead6ef4161ec504c903e3c4a888f57e0be8c",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 2163.86,
+      "price": 0.4621371068,
+      "timestamp": 1794389079,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "sz8888",
+      "pseudonym": "Friendly-Gem",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x55b2076d37fee4b4ff0b8d384d3e654e96c897735d4df2cedaddd3a182b628cf",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x59beecf7d392d049c64da0a9599aeaa4ad6adc3e",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 23.255814,
+      "price": 0.4299999991,
+      "timestamp": 1794389077,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "Jakub2704",
+      "pseudonym": "Pale-Mincemeat",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x15103d0ff322a850b05fc8bb6e06d62a1e0d3993cbf59e10fd89f0883d58782f",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x8fe75bd36fb3f8a62d4be398d8fcc3d7d45f8c68",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 11.627907,
+      "price": 0.4299999991,
+      "timestamp": 1794389076,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "Ranos",
+      "pseudonym": "Shrill-Hydrolysis-Blister",
+      "bio": "",
+      "profile_image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-10020503-dacbc1d3-0d50-4793-81fd-8b27e2e77c32.png",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xb7c467ed87067a45b91f8024bb52437f1efac83524f0809c459016321427f8bb",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0xcc09b46c66b6177d30c651899f30f65830f47439",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 5.0,
+      "price": 0.58,
+      "timestamp": 1794389076,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "QuadroCat",
+      "pseudonym": "Unsteady-Standardisation",
+      "bio": "Bio",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xa496d8f3777e830de59a4d1dfd737c43184770bc17df7a06e8f6337e82166d76",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x97385268836d23d3a81dd869303c92ce870f6c2e",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 2.363637,
+      "price": 0.5499998519,
+      "timestamp": 1794389074,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "0xFfD350271cE20BA5076b4B461119A240F74CB537-1775482007086",
+      "pseudonym": "Wide-Account",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x4f6724f59d4fe526fbac144ef4b9b2f07d739b0b0c0a83eb6c48f0d817b06d64",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xb945945d5bcaf7b56834d4da8cdf8f8f94b2db68",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 8.14,
+      "price": 0.54,
+      "timestamp": 1794389074,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "l5Zn1bWoM8eTsK",
+      "pseudonym": "Noisy-Colonisation",
+      "bio": "Not active on X or any other form of social media. Anyone who claims to own this account is lying.",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x8b4ddb9dafd6e7ec322b99cbce67153287a29a8a570fddddfd346b3ab3417209",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x4494bb83a34d5a2ba955bf2c0c560a81a9231ee1",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 1.851852,
+      "price": 0.5399999568,
+      "timestamp": 1794389073,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "58in-r1",
+      "pseudonym": "Natural-Zampone-Army",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x9bed0acdaf1a60a5c29211b93f35afe45d45dc31da8e739c28aadca7eec5518f",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xe29042f5d913dcc4015aab3455c13c58514ca33f",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 8.11,
+      "price": 0.53,
+      "timestamp": 1794389073,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "stepahead",
+      "pseudonym": "Windy-Turban",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x2ed61cebb3f1af31449f9d065a0325bfa848426d3de3da129951ea48fa10af1c",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xb86cc3d5d5a7ee5c2f23b72805a03fff24c3bb14",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 27.0,
+      "price": 0.48,
+      "timestamp": 1794389067,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "5Thunderbolt",
+      "pseudonym": "Luxurious-Pleasure",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x6e7c086633c80d8e142e8aed2d0c2008616d8638898bed2eec9594c4e68845b9",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0xa761852c91f0942c56a3088c3285b14479fb39d5",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 1.886793,
+      "price": 0.5299998463,
+      "timestamp": 1794389065,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "58in-r2",
+      "pseudonym": "Upset-Alfalfa-Muscle",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x84054fb829d93cdc353cef47e12e230315b24fe1ba864ce6911e1d35458e70cb",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xdf8992c4d2afe95ad96265d1c1ecfff6b5d70a90",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 20.0,
+      "price": 0.5,
+      "timestamp": 1794389064,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "bmbot",
+      "pseudonym": "Mature-Shearling",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x680e9e5db5267a4e5a84ad034b4982ada25635502b06368f4acff81d302c72e9",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x77ff30e6eca4e924b7a9e370b05b0e664901bce0",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 939.834616,
+      "price": 0.5058549578,
+      "timestamp": 1794389064,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "itchypony1864",
+      "pseudonym": "Altruistic-Tintype-Downstairs",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x173af671b759b81250f2549385f7a22d4781a46b9faead1bc14c64809eb03cf4",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x3c9cefe242bf200eaae23b57c30a60cd3da20abc",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 12.244898,
+      "price": 0.4899999984,
+      "timestamp": 1794389047,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "Tjxdgh",
+      "pseudonym": "Best-Dozen-Hazel",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x3b24aae0a4a7d8f797b9beb98e5acbf4753f69e5b0358782dcdfecdf3c5e2f4a",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x2ea19bd1d900176706b8f54b1cab0d098e7bab41",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 76.923077,
+      "price": 0.5199999995,
+      "timestamp": 1794389047,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "TsangChungChung",
+      "pseudonym": "Improbable-Number",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x6f97f68651a57465dd38f3434dfb33c64e24f02b4b18ee312dbf32caa977371d",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x51cc38dcc7d72fe6a42a33453fc4db8ba604a4e2",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 585.813654,
+      "price": 0.5121082412,
+      "timestamp": 1794389043,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "MestreLage",
+      "pseudonym": "Long-Stew",
+      "bio": "",
+      "profile_image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-900930-b2bf73bd-83f1-4b6b-8726-9fdbc8a1b37b.webp",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x2aa776f35ce992bba41767c181c98aaefa6338669f4e24d7b7a4fa735eca38b2",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x45840f0543a1b16bc99f72e14960a720faa168df",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 3.764706,
+      "price": 0.5099999841,
+      "timestamp": 1794389041,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x5adc0c7857924edb8bb9cf91f21a44687941f56090af8ad0ebe9425562fece43",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0xc418550637412ef756dcc88afa3dea78fbd3ca84",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 2.0,
+      "price": 0.5,
+      "timestamp": 1794389040,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "velser",
+      "pseudonym": "Creamy-Cappuccino-Glove",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xe18fa51efbc830313145f96724b125d94d6dfb0e27d2ea20cd74a8b62e37b522",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xbb9e867188d3b6e95e4460591873558535d41ac8",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 6.0,
+      "price": 0.5,
+      "timestamp": 1794389034,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "MMMCN",
+      "pseudonym": "Colorless-Odometer",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xb398e00c6ea9452e2150179deb19825102e90169eab9d588950373e7405adf71",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xa741e5151ef69e9349d18b5b5a6a36355ba484a9",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 10.0,
+      "price": 0.5,
+      "timestamp": 1794389034,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "terencedaGOAT",
+      "pseudonym": "Flawless-Tour-Hops",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xee80604341acf677ba1fbc3df062502c3d1920cd18b78b16b5b9c3e68af3a74a",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x6ddcfb5ba486250986d375eaa4dd772287409e1b",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 4.0,
+      "price": 0.5,
+      "timestamp": 1794389025,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "0x6ddcfb5bA486250986D375Eaa4DD772287409e1b-1780808816318",
+      "pseudonym": "Foolhardy-Rider",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x68c97789b32194f8a6832452fe52598d63dbb80b5f22231c9a79cfd711f09658",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x318dd2ce90478504fe21625147348a157fc06739",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 8.0,
+      "price": 0.5,
+      "timestamp": 1794389023,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "Niko11111",
+      "pseudonym": "Sleepy-Platinum",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x18ce69d3d74bc4c0db27916a53e19f1e2649979fd21d7909e1f4a091cbef35be",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x7ebc973f8dbc81e9223125ea7960ba961fc201c6",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 122.36,
+      "price": 0.5,
+      "timestamp": 1794389017,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "0x7EBC973f8dbc81E9223125Ea7960bA961Fc201c6-1774025253630",
+      "pseudonym": "Bowed-Eternity",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xc414c441cd9ab59f2467a53090963db36e49caab560bdcdc666d1bf04bc90ea1",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x6ddcfb5ba486250986d375eaa4dd772287409e1b",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 6.0,
+      "price": 0.5,
+      "timestamp": 1794389017,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "0x6ddcfb5bA486250986D375Eaa4DD772287409e1b-1780808816318",
+      "pseudonym": "Foolhardy-Rider",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xc1d5679c5b7d9673e592c58d93f45b5035d73d7206e631973862b16a5b43bcc5",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0xf89055185a1364fb1f3f9b29d4393192fa557fe6",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 20.0,
+      "price": 0.5,
+      "timestamp": 1794389011,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "0x5666090A964238825D100B2B7e241B135976682a-1768874604029",
+      "pseudonym": "Honored-Monsoon",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xd50dff346d9df33b385e6d207cb3662285a695b3be84d52f9beeedda23914f2f",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x318dd2ce90478504fe21625147348a157fc06739",
+      "side": "SELL",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 7.84,
+      "price": 0.5,
+      "timestamp": 1794389010,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "Niko11111",
+      "pseudonym": "Sleepy-Platinum",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xbc81cfd580ac76d2f332dac90bb6205e57df89d7273e88c2653d27fc02cac2c6",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x92ef8d0b20fb6a04c7820d361f794d38c79ec791",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 3.0,
+      "price": 0.5,
+      "timestamp": 1794389008,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "SatyamVishwakarma",
+      "pseudonym": "Friendly-Exercise",
+      "bio": "",
+      "profile_image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5948470-58eceb6a-9db3-41b8-ba26-94b6b5f7f1e6.png",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xa4c7c3f94ab16fa2a6db69aedc9b7ea5ee984c31bd67987d0480c27f6f335275",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x4c35e638585a43ba62c86d72b958cf63ba10b60f",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 26.0,
+      "price": 0.5,
+      "timestamp": 1794388993,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "StevenTsai",
+      "pseudonym": "Diligent-Fish",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x47f6061bd1e345379d3135384ab91c2f78af611cfa568d2bc9c9217411ef9123",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x44300a5ec33bc2147a95cc2c9fcd7f0ccabbaa2e",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 1.960785,
+      "price": 0.5099998215,
+      "timestamp": 1794388989,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "SiTai",
+      "pseudonym": "High-Level-Insect-Gripper",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x2815498cee52ac10d4d41fdc766af28c77182184e1eebfc666117cfc21295f79",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x73d4ef75f5d784a32e88611652de62076cf19006",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 14.450981,
+      "price": 0.5099999785,
+      "timestamp": 1794388986,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "0x73d4eF75F5D784A32e88611652DE62076cf19006-1790492805622",
+      "pseudonym": "General-Savage-Displacement",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xcbe1b6e818370c228fb28e86128a2956201f7a879ac5eb395c0022b3b8cd04af",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0xd11727ba2e41b4e186b01db8ca9360921f32d712",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 9.803922,
+      "price": 0.5099999776,
+      "timestamp": 1794388983,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "UpupupYeah",
+      "pseudonym": "Grim-Interior",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x805c47bee93d23a7fb9712c3d2cd3ea87ee76a4812d5bfc0771d8a613e5fa267",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0xd11727ba2e41b4e186b01db8ca9360921f32d712",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 9.803922,
+      "price": 0.5099999776,
+      "timestamp": 1794388981,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "UpupupYeah",
+      "pseudonym": "Grim-Interior",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xda0a96b88c5b6a2280575395ea228a280fbf80ba0b7badab1439c51c6808a4aa",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0xd11727ba2e41b4e186b01db8ca9360921f32d712",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 9.803922,
+      "price": 0.5099999776,
+      "timestamp": 1794388981,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "UpupupYeah",
+      "pseudonym": "Grim-Interior",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xcd9d9303a0b3e0d30314c78cba7959279416aa8719c80800d17530c44f85cded",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x765e6a480ae3f05c3f2e6c50f4575f17f9cd36dd",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 9.803922,
+      "price": 0.5099999776,
+      "timestamp": 1794388978,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x35de577b47a3f4c8175a12aeb90a525d1d448f43c84dac3c31ea0aac4fd9f615",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0xd11727ba2e41b4e186b01db8ca9360921f32d712",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 9.803922,
+      "price": 0.5099999776,
+      "timestamp": 1794388978,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "UpupupYeah",
+      "pseudonym": "Grim-Interior",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x44d63872e0cc926608e4e0bd8741e9fb70583727dc9b7234a2598d7e9fe7e47a",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x3547f29403c920f069809d259e0c63df2d8631fd",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 9.803922,
+      "price": 0.5099999776,
+      "timestamp": 1794388978,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "levoslov",
+      "pseudonym": "Half-Swing",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x287b813b3b42ac49fb8b80e6cd4eb6632d5972317680d17888c2b71cb9613730",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x318dd2ce90478504fe21625147348a157fc06739",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 7.843138,
+      "price": 0.5099999516,
+      "timestamp": 1794388957,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "Niko11111",
+      "pseudonym": "Sleepy-Platinum",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x734fe7b11042dc98b7a65f49d659b21872da571da90ce82bf5c430ea2f211546",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x2ea19bd1d900176706b8f54b1cab0d098e7bab41",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 58.82353,
+      "price": 0.5099999949,
+      "timestamp": 1794388935,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "TsangChungChung",
+      "pseudonym": "Improbable-Number",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xb31e735f68bec9179c27e455fa5a289fadc473e9a30f16d35974f9c64424c30d",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x66612ccdddd6f7345bfa961b500bf738291a5c7b",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 7.980393,
+      "price": 0.5099999461,
+      "timestamp": 1794388837,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x5ebb2a540972bd89fc929efbd1fcb204c7fbac4d3b97630a08c46247b9413e30",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x765e6a480ae3f05c3f2e6c50f4575f17f9cd36dd",
+      "side": "BUY",
+      "token_id": "100831631306138497789353054886647471431251587299230105991540429360980821049227",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 3.921569,
+      "price": 0.5099999516,
+      "timestamp": 1794388815,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Up",
+      "outcome_index": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x1734611f2df8f3f9bc931359ed2802d84bca42dedb083920304675b918553d14",
+      "asset": "100831631306138497789353054886647471431251587299230105991540429360980821049227"
+    },
+    {
+      "proxy_wallet": "0x44300a5ec33bc2147a95cc2c9fcd7f0ccabbaa2e",
+      "side": "SELL",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 2.0,
+      "price": 0.49,
+      "timestamp": 1794388722,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "SiTai",
+      "pseudonym": "High-Level-Insect-Gripper",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x535f6209f010da15a6445b2e2ae20d6fbdb20fc96637a2147a03dcd1301aef29",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x44300a5ec33bc2147a95cc2c9fcd7f0ccabbaa2e",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 2.0,
+      "price": 0.5,
+      "timestamp": 1794388141,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "SiTai",
+      "pseudonym": "High-Level-Insect-Gripper",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0xb60072314e410c4daaa130434ebd99e5fab3fcb68c20f128cd6b9c48c6c8112d",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    },
+    {
+      "proxy_wallet": "0x54190e827bcb134ed92362f7037996d9de3b53e3",
+      "side": "BUY",
+      "token_id": "17865048731880689692471380142351953830692124202697049470410733118258449322598",
+      "condition_id": "0xf9fa5d4403a8e68387609ed59aaa2495a19e5d94e1791cd7ede1c24695fdbbf8",
+      "size": 10.0,
+      "price": 0.5,
+      "timestamp": 1794386178,
+      "title": "Bitcoin Up or Down - November 11, 4:25AM-4:30AM ET",
+      "slug": "btc-updown-5m-1794389100",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "btc-updown-5m-1794389100",
+      "outcome": "Down",
+      "outcome_index": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profile_image": "",
+      "profile_image_optimized": "",
+      "transaction_hash": "0x10938d0c0f1b80bc4676626ac2a94d93813aac2275ae5496b299910e74975fbc",
+      "asset": "17865048731880689692471380142351953830692124202697049470410733118258449322598"
+    }
+  ]
+}
