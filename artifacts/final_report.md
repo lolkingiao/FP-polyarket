@@ -60,6 +60,16 @@ The gate flips the per-snapshot expectation from negative to barely positive; it
 
 **Headline finding.** Dual-sided preordering is viable only inside a narrow regime window that the gate can identify. This is a NEGATIVE result in the sense that it does not claim profitability — it claims loss avoidance [source: artifacts/evaluation_report_v2.md §4, Conclusion].
 
+#### Robustness Check: 24-Hour High-Frequency Validation
+
+We collected an additional 11,589 snapshots at a 5-second interval over a 24-hour collection window (2026-11-13 11:40Z → 2026-11-14 18:00Z; two high-liquidity sessions: Asia-Europe overlap 06–10 UTC, n = 2,452, and Europe-US overlap 12–16 UTC, n = 4,640) to test for time-of-day effects [source: artifacts/session_comparison.md §0–§2].
+
+The Europe-US overlap session did NOT produce more goldilocks than the original baseline — 2.0% (93/4,640) vs 3.5% (14/399), two-proportion z-test p = 0.0455, a significant *decrease*. The "high liquidity = more GO" hypothesis was rejected; Session B's shift was toward unclassified (24.9% vs 13.5% baseline), driven by wider spreads (only 80.7% of Session B snapshots have spread < 0.02 vs 94.1% baseline) [source: artifacts/session_comparison.md §3 Q1].
+
+The original thresholds proved highly robust: median spread_max was 0.0100 across all three datasets, and recent_count ≥ 3 held at ~19% everywhere (399: 19.0%, Session A: 19.2%, Session B: 18.4%). Raising recent_trade_count_min to 10 would cut goldilocks from 93 to 89 — tightening, not loosening — so the threshold stays at 3 [source: artifacts/session_comparison.md §3 Q3, §4].
+
+We tested relaxing mid_distance_max to 0.10, which doubled Session B goldilocks to 4.3% (199/4,640), but rejected it to maintain a strict safety margin against one-legged fills. Conclusion: the model's strictness is structural — ~90% of non-one-sided snapshots sit far from mid 0.5 in every dataset — not an artifact of a small sample size [source: artifacts/session_comparison.md §3–§4].
+
 ### 5. Reusable Contribution (0.5 page)
 
 Package: `skills/polymarket-regime-gate/` (public GitHub). Contents: SKILL.md, README.md, config.yaml (frozen thresholds + strategy), scripts/classify.py, scripts/record.py, and examples/ with 3 snapshots — one per label (goldilocks / quiet / resolved_pending) [source: skills/polymarket-regime-gate/README.md, §What this package contains].
@@ -80,7 +90,7 @@ Attribution: the package reuses the course's JiuwenSwarm environment; the classi
 - Fill simulation is conservative: each snapshot checks only the next snapshot's best_ask (20 s gap), not the full price path [source: artifacts/evaluation_report_v2.md §5.1].
 - Single-day design set; regime shares and rates may shift on other days [source: artifacts/evaluation_report_v2.md §5.2].
 - Settlement uses Chainlink 30s TWAP; order-book features are a proxy [source: artifacts/evaluation_report_v2.md §5.3].
-- Future work: 15-minute markets, order-book microstructure for fill probability, TWAP-aware regime detection [source: user outlook].
+- Future work: 15-minute markets, order-book microstructure for fill probability, TWAP-aware regime detection, and time-of-day dynamic thresholds — the 24-hour robustness check found no statistically significant reason to move the thresholds yet, but a longer multi-day sample could revisit this [source: user outlook; artifacts/session_comparison.md §4].
 
 ### References
 
