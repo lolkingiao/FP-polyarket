@@ -35,7 +35,7 @@ python3 classify.py snapshot.json --mid-distance-max 0.10
 
 # Parameterized recording: asset and window only affect --auto-slug slug naming/windowing
 python3 record.py --auto-slug --asset eth --window-minutes 5
-// (live demo) python3 scripts/record.py --auto-slug --interval 5 --duration 30 
+// (live demo) python3 scripts/record.py --auto-slug --duration 5
 
 ## Supported markets and threshold overrides (Recalibration required)
 
