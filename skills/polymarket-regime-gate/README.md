@@ -32,6 +32,7 @@ python3 classify.py snapshot.json --mid-distance-max 0.10
 
 # Parameterized recording: asset and window only affect --auto-slug slug naming/windowing
 python3 record.py --auto-slug --asset eth --window-minutes 5
+python3 scripts/record.py --auto-slug --interval 5 --duration 30 (live demo)
 
 ## Supported markets and threshold overrides (Recalibration required)
 
@@ -50,7 +51,7 @@ Here is the step-by-step to adapt this tool for a new market (e.g., ETH 15-min):
 3. **Update the thresholds**:
    Edit `config.yaml` and change the 4 numbers under `thresholds:` to fit the ETH market structure.
 4. **Classify**:
-   `python3 scripts/classify.py your_eth_snapshot.json`
+   `python3 scripts/classify.py your_eth_snapshot.json` (for mac: 'python3 skills/polymarket-regime-gate/scripts/classify.py $(ls -t data/snapshots/*.json | head -n 1)' classify last run )
 
 ### Temporary CLI Threshold Overrides (For testing only)
 If you just want to test one specific snapshot without editing `config.yaml`, you can override thresholds on the fly:
