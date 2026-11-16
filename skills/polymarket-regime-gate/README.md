@@ -18,6 +18,9 @@ pip install requests pyyaml
 python3 skills/polymarket-regime-gate/scripts/classify.py \
   skills/polymarket-regime-gate/examples/goldilocks.json
 
+  (live demo) git clone https://github.com/lolkingiao/FP-polyarket.git
+cd FP-polyarket
+
 # 3. To record your own snapshots (read-only public APIs):
 python3 skills/polymarket-regime-gate/scripts/record.py \
   --auto-slug --output-dir data/snapshots/
